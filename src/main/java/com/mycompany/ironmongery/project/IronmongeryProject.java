@@ -17,7 +17,9 @@ public class IronmongeryProject {
         /*Conexion objetoConexion = new Conexion();
         objetoConexion.establecerConexion();*/
         
-        ProductView jp = new ProductView();
+        /*ProductView jp = new ProductView();
+        jp.setVisible(true);*/
+        Login jp = new Login();
         jp.setVisible(true);
     }
 }
